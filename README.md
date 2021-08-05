@@ -2,7 +2,7 @@
 
   ┌П┐(▀̿Ĺ̯▀̿)    
 
-- 👀 I’m interested in Web development, Android Development, Data Science, Machine Learning
+- 👀 I’m interested in Front End Web development, Android Development, Data Science, Machine Learning
 - 🌱 I’m currently learning Data Science with Julia
 
 - 📫 How to reach me ... by contacting me via https://github.com/arthda  ,  then comment in a discussion that I'm involved in.
